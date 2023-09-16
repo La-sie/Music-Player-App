@@ -7,6 +7,10 @@
 </p>
 
 <h3> IMAGE</h3>
-<img src="" alt="">
+<h5> Inspiration </h5>
+<img src="./images/screenshot.png" alt="">
+
+<h5> Code</h5>
+<img src="./images/code screenshot.png" alt="">
 
 <h3> Videos</h3>
