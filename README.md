@@ -14,4 +14,7 @@
 <img src="./images/code screenshot.png" alt="">
 
 <h3> Videos</h3>
-[Uploading video.webm…]()
+<video width="320" height="240" controls>
+  <source src="./images/video.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
