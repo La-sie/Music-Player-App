@@ -11,5 +11,5 @@
 <img src="./images/screenshot.png" alt="">
 
 <h5> Code</h5>
-<img src="./images/code screenshot" alt="">
+<img src="./images/code screenshot.png" alt="">
 
